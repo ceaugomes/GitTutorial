@@ -1,6 +1,6 @@
 # Como usar o Git e Github na prática
 
-<img src="https://www.seekpng.com/png/detail/101-1017465_github-github-icon-png-grey.png">
+<img src="https://miro.medium.com/max/1125/1*dDNpLKu_oTLzStsDTnkJ-g.png">
  
 
 Oie gente sejam bem vindos, eu sou o Cesar Gomes e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
